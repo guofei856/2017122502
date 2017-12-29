@@ -18,9 +18,9 @@
 
 接下来，我们将通过以下教程帮助您更好地了解和掌握数慧空间：
 
-第一章  快速开始
+[第一章  快速开始](//kuai-su-kai-shi.md)
 
-第二章  产品使用手册
+[第二章  产品使用手册](/chan-pin-shi-yong-shou-ce.md)
 
-第三章  算法参数说明
+[第三章  算法参数说明](/suan-fa-can-shu-shuo-ming.md)
 
