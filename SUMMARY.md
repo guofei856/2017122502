@@ -2,9 +2,7 @@
 
 * [简介](README.md)
 * [快速开始](/kuai-su-kai-shi.md)
-
 * [产品使用手册](chan-pin-shi-yong-shou-ce.md)
-
   * [系统登录](chan-pin-shi-yong-shou-ce/xi-tong-deng-lu.md)
   * [首页](chan-pin-shi-yong-shou-ce/shou-ye.md)
   * [模型管理](chan-pin-shi-yong-shou-ce/mo-xing-guan-li.md)
@@ -23,8 +21,5 @@
     * [模型类别管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/mo-xing-lei-bie-guan-li.md)
     * [企业账号管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/qi-ye-zhang-hao-guan-li.md)
     * [用户管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/yong-hu-guan-li.md)
-
-* 算法参数说明
-
-
+* [算法参数说明](suan-fa-can-shu-shuo-ming.md)
 
