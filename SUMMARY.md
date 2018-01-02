@@ -23,4 +23,6 @@
     * [用户管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/yong-hu-guan-li.md)
     * [角色管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/jiao-se-guan-li.md)
 * [算法参数说明](suan-fa-can-shu-shuo-ming.md)
+  * [数据准备算法节点](suan-fa-can-shu-shuo-ming/shu-ju-zhun-bei-suan-fa-jie-dian.md)
+  * 挖掘建模算法节点
 

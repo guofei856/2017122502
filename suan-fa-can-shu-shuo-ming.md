@@ -4,9 +4,7 @@
 
 接下来，我们通过以下两部分内容，对算法参数进行介绍：
 
-## 数据准备算法节点
+[第一节   数据准备算法节点](/suan-fa-can-shu-shuo-ming/shu-ju-zhun-bei-suan-fa-jie-dian.md)
 
-## 挖掘建模算法节点
-
-
+第二节   挖掘建模算法节点
 
