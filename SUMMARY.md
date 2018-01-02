@@ -21,5 +21,6 @@
     * [模型类别管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/mo-xing-lei-bie-guan-li.md)
     * [企业账号管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/qi-ye-zhang-hao-guan-li.md)
     * [用户管理](chan-pin-shi-yong-shou-ce/xi-tong-guan-li/yong-hu-guan-li.md)
+    * 角色管理
 * [算法参数说明](suan-fa-can-shu-shuo-ming.md)
 
