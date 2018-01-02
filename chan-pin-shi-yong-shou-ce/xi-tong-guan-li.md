@@ -14,5 +14,5 @@
 
 [五   用户管理](/chan-pin-shi-yong-shou-ce/xi-tong-guan-li/yong-hu-guan-li.md)
 
-六   角色管理
+[六   角色管理](/chan-pin-shi-yong-shou-ce/xi-tong-guan-li/jiao-se-guan-li.md)
 
