@@ -10,3 +10,9 @@ Classification And Regression Tree，即分类回归树算法，简称CART算法
 
 
 
+* Logistic算法
+
+
+
+
+
