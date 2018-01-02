@@ -6,5 +6,5 @@
 
 [第一节   数据准备算法节点](/suan-fa-can-shu-shuo-ming/shu-ju-zhun-bei-suan-fa-jie-dian.md)
 
-第二节   挖掘建模算法节点
+[第二节   挖掘建模算法节点](/suan-fa-can-shu-shuo-ming/wa-jue-jian-mo-suan-fa-jie-dian.md)
 
