@@ -8,7 +8,17 @@ Classification And Regression Tree，即分类回归树算法，简称CART算法
 
 ![](/assets/Cart算法.png)
 
+
+
 * Logistic算法
 
 构建Logistic回归分类器，并可以预测数据的标签。
+
+![](/assets/Logistic算法.png)
+
+## 聚类算法
+
+
+
+
 
