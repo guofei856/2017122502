@@ -8,7 +8,7 @@
 
 接下来，我们通过以下四部分内容，对产品使用进行介绍：
 
-[第一节   系统登陆](/chan-pin-shi-yong-shou-ce/xi-tong-deng-lu.md)
+[第一节   系统登录](/chan-pin-shi-yong-shou-ce/xi-tong-deng-lu.md)
 
 [第二节   首页](/chan-pin-shi-yong-shou-ce/shou-ye.md)
 
